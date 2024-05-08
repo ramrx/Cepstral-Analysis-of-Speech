@@ -1,1 +1,0 @@
-# Cepstral-Analysis-of-Speech
